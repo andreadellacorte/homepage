@@ -6,7 +6,7 @@
   "repository": "https://github.com/Pauloo27/homepage",
   "homepage": "http://pauloo27.github.io/homepage",
   "dependencies": {
-    "@crello/react-lottie": "^0.0.7",
+    "@crello/react-lottie": "^0.0.11",
     "@fortawesome/fontawesome-svg-core": "^1.2.27",
     "@fortawesome/free-brands-svg-icons": "^5.12.1",
     "@fortawesome/free-regular-svg-icons": "^5.12.1",
